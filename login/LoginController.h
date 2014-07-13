@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HTTPPoster.h"
 
 @interface LoginController : UIViewController <UITextFieldDelegate>
 
