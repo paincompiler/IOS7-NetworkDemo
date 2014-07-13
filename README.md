@@ -1,4 +1,4 @@
-#**IOS7-NetworkDemo**[color:blue]
+#**IOS7-NetworkDemo**
 ---
 This is an demo app as a try on programming on ios7.
 ##**好！来个时间表～**（突然换语言了＝＝）
